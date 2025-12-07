@@ -1,6 +1,5 @@
 <p align="center">
-  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=230&section=header&text=Hi%20I'm%20Aniket%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn" /> -->
-  Hi, I am aniket.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=230&section=header&text=Hi%20I'm%20Aniket%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -9,7 +8,7 @@
 
 ---
 
-<p align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2I1ZXZ3cjR6djFuM2M2b2E2d3ZreXlmOWlvZTFieGgyNmFwd3FhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EemW34a2bygGquksbt/giphy.gif" alt="Coding GIF" width="100%" />   </p>
+<!-- <p align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2I1ZXZ3cjR6djFuM2M2b2E2d3ZreXlmOWlvZTFieGgyNmFwd3FhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EemW34a2bygGquksbt/giphy.gif" alt="Coding GIF" width="100%" />   </p> -->
 
 ---
 
