@@ -52,9 +52,22 @@ I enjoy focusing on performance, animation, UI decisions, and building projects 
 
 # 🌱 **GitHub Activity (Heatmap)**
 
-<p align="center">
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZueXE0cWdwbXVrcXpmcnl1dHhnNGF4bG85a2N4eThqd2s2NWZ3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xuXzcHMkuwvf2/giphy.gif" width="300" />
+    </td>
+    <td>
+    <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniket-padyal&theme=tokyo-night&hide_border=true" />
 </p>
+    </td>
+  </tr>
+</table>
+
+<!-- <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniket-padyal&theme=tokyo-night&hide_border=true" />
+</p> -->
 
 ---
 
