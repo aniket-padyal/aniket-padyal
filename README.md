@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=230&section=header&text=Hi%20I'm%20Aniket%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=230&section=header&text=Hi%20I'm%20Aniket%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn" /> -->
+  Hi, I am aniket.
 </p>
 
 <p align="center">
@@ -45,8 +46,8 @@ I enjoy focusing on performance, animation, UI decisions, and building projects 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aniket-padyal-354653308/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="aniketpadyal07@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://mac-os-portfolio-rho.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" /></a>
+  <a href="https://mail.google.com/mail/u/1/?ogbl#inbox"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <!-- <a href="https://mac-os-portfolio-rho.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" /></a> -->
 </p>
 
 ---
