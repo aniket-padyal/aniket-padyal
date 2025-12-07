@@ -2,14 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=150&section=header&text=Hi%20I'm%20Aniket%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<table>
+<table align="center">
   <tr>
     <td>
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW8xeDRnNTRhajZhazRmM2twcTd4ams3d3JuNnUwYXhmY2lncXJ3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qp61kl8rdZwuQ/giphy.gif" width="200" />
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW8xeDRnNTRhajZhazRmM2twcTd4ams3d3JuNnUwYXhmY2lncXJ3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qp61kl8rdZwuQ/giphy.gif" width="150" />
     </td>
     <td>
     <p>
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=6366F1&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Tailwind+CSS+%7C+JavaScript;Always+Exploring+New+Tech;Building+Clean+and+Modern+UI" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&color=6366F1&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Tailwind+CSS+%7C+JavaScript;Always+Exploring+New+Tech;Building+Clean+and+Modern+UI" />
     </p>
     </td>
   </tr>
@@ -37,7 +37,7 @@ I enjoy focusing on performance, animation, UI decisions, and building projects 
 
 # 🔥 **Contribution Streak**
 
-<table>
+<table align="center">
   <tr>
     <td>
       <img src="https://streak-stats.demolab.com?user=aniket-padyal&theme=tokyonight&hide_border=true" />
@@ -67,14 +67,6 @@ I enjoy focusing on performance, animation, UI decisions, and building projects 
 </p>
 
 <!-- # **Footer** -->
-<p >
- <img
-  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9iOWdhODcxdHpjcHF6YWdham4yazJrdHF3M2tyc3AxcjRyeXlpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9xaPqe7BAPNDs86ULk/giphy.gif"
-  alt="Footer"
-  style="width: 100%; height: 200px; object-fit: cover; border-radius: 10px;"
-/>
-</p>
-
  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:a855f7,100:f97316&height=140&section=footer" alt="Footer" />
 </p>
