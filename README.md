@@ -30,7 +30,7 @@ I enjoy focusing on performance, animation, UI decisions, and building projects 
 # 🛠️ **Tech Stack**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,next,git,github,python,django" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,next,python,django,git,github" />
 </p>
 
 ---
