@@ -30,7 +30,7 @@ I enjoy focusing on performance, animation, UI decisions, and building projects 
 # 🛠️ **Tech Stack**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,ts,git,github,next,python,django" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,next,git,github,python,django" />
 </p>
 
 ---
@@ -40,7 +40,7 @@ I enjoy focusing on performance, animation, UI decisions, and building projects 
 <table align="center">
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com?user=aniket-padyal&theme=tokyonight&hide_border=true" />
+      <img src="https://streak-stats.vercel.app?user=aniket-padyal&theme=tokyonight&hide_border=true" />
     </td>
     <td>
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2tucXU2dWQ4bnE1bGRxdjdpbzF1eWQweDhnbnJ0ZDFlMnNoOHYweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/amrNGnZUeWhZC/giphy.gif" width="250" />
