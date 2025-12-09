@@ -65,10 +65,6 @@ I enjoy focusing on performance, animation, UI decisions, and building projects 
   </tr>
 </table>
 
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniket-padyal&theme=tokyo-night&hide_border=true" />
-</p> -->
-
 ---
 
 # 🌐 **Connect With Me**
