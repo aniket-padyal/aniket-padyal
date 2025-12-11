@@ -67,6 +67,11 @@ I enjoy focusing on performance, animation, UI decisions, and building projects 
 
 ---
 
+<!--### 🧠 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/TEKINA14?theme=dark&border=0&radius=10)-->
+
+---
+
 # 🌐 **Connect With Me**
 
 <p align="center">
