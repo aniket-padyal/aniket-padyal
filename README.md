@@ -55,7 +55,7 @@ I enjoy focusing on performance, animation, UI decisions, and building projects 
 <table align="center">
   <tr>
     <td>
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2R6OTdqemVveTRzaG15bDVvOTZkdGNoanhkdmkwYW5lcjcxNHJmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ygp6mRzMJiCc0/giphy.gif" width="" />
+      <img <img src='https://www.gitclear.com/snap_changelogs/229cc023-f4a6-4d27-a111-31e19a79c7d9.png' /> />
     </td>
     <td>
     <p align="center">
