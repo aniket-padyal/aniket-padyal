@@ -52,11 +52,10 @@ I enjoy focusing on performance, animation, UI decisions, and building projects 
 
 # 🌱 **GitHub Activity (Heatmap)**
 
-<table align="center">
+<!-- <table align="center"> -->
   <tr>
     <td>
       <!-- <img <img src='https://www.gitclear.com/snap_changelogs/229cc023-f4a6-4d27-a111-31e19a79c7d9.png' /> -->
-      [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?aniket-padyal=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
     </td>
     <td>
     <p align="center">
