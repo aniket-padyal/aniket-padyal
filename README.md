@@ -55,7 +55,8 @@ I enjoy focusing on performance, animation, UI decisions, and building projects 
 <table align="center">
   <tr>
     <td>
-      <img <img src='https://www.gitclear.com/snap_changelogs/229cc023-f4a6-4d27-a111-31e19a79c7d9.png' /> />
+      <!-- <img <img src='https://www.gitclear.com/snap_changelogs/229cc023-f4a6-4d27-a111-31e19a79c7d9.png' /> -->
+      [![Star History Chart](https://api.star-history.com/svg?repos=Significant-Gravitas/AutoGPT,madushadhanushka/github-readme&type=Date)](https://www.star-history.com/#Significant-Gravitas/AutoGPT&madushadhanushka/github-readme&Date)
     </td>
     <td>
     <p align="center">
