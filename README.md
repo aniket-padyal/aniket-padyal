@@ -56,7 +56,7 @@ I enjoy focusing on performance, animation, UI decisions, and building projects 
   <tr>
     <td>
       <!-- <img <img src='https://www.gitclear.com/snap_changelogs/229cc023-f4a6-4d27-a111-31e19a79c7d9.png' /> -->
-      [![Star History Chart](https://api.star-history.com/svg?repos=Significant-Gravitas/AutoGPT,madushadhanushka/github-readme&type=Date)](https://www.star-history.com/#Significant-Gravitas/AutoGPT&madushadhanushka/github-readme&Date)
+      [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?aniket-padyal=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
     </td>
     <td>
     <p align="center">
